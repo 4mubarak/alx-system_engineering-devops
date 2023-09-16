@@ -1,4 +1,3 @@
-![image](https://user-images.githubusercontent.com/105258746/188767412-2ac881ad-4583-491c-9f86-fa210d23a9db.png)
 
 # ALX Software Engineering DevOps Track
 
@@ -8,7 +7,7 @@ At ALX School `we do hard things`, the goal is not to be a good student rather t
 ## Table of contents
 DIRECTORIES | DESCRIPTION
 --------- | -----------
-[0x00-shell_basics](https://github.com/Lordwill1/alx-system_engineering-devops/tree/master/0x00-shell_basics) | Introduction to the basics of the Linux Shell
-[0x01-shell_permissions](https://github.com/Lordwill1/alx-system_engineering-devops/tree/master/0x01-shell_permissions) | Introduction to Shell permissions and the file system
-[0x02-shell_redirections](https://github.com/Lordwill1/alx-system_engineering-devops/tree/master/0x02-shell_redirections) | Introduction to Shell redirections
-[0x03-shell_variables_expansions](https://github.com/Lordwill1/alx-system_engineering-devops/tree/master/0x03-shell_variables_expansions) | Introduction to Shell variable expansions
+[0x00-shell_basics]| Introduction to the basics of the Linux Shell
+[0x01-shell_permissions]| Introduction to Shell permissions and the file system
+[0x02-shell_redirections] | Introduction to Shell redirections
+[0x03-shell_variables_expansions] | Introduction to Shell variable expansions
