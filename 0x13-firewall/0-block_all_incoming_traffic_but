@@ -1,5 +1,7 @@
-sudo apt-get install -y ufw
-sudo ufw allow ssh
-sudo ufw allow http
-sudo ufw allow 443/tcp
-sudo ufw --force enable
+#!/bin/bash env
+# script that sets up a few firewall rules on web-01.
+ufw default deny incoming
+ufw allow 22/tcp
+ufw allow 80/tcp
+ufw allow 443/tcp
+ufw enable
