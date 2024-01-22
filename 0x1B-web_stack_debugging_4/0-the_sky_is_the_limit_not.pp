@@ -1,4 +1,4 @@
-# Fix problem of high amount of requests
+# Fix problem and allow unlimited traffic/requests
 
 exec {'replace':
   provider => shell,
