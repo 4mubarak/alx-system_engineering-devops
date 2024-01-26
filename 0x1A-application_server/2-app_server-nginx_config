@@ -2,7 +2,7 @@ server {
     listen 80 default_server;
     listen [::]:80 default_server;
 
-    server_name 100.25.155.56;
+    server_name 54.157.167.230;
 
     add_header X-Served-By 339043-web-01;
 
